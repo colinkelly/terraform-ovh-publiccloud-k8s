@@ -38,7 +38,7 @@ To deploy K8s servers using this Module:
 
 ## Flavors
 
-kube-dns will not work (OutOfCpu) if only one VCPU is present (see kubernetes/kubernetes#38806), so it is not recommanded to use sandbox instances `s1-2` and `s1-4`.
+kube-dns will not work (OutOfCpu) if only one VCPU is present (see kubernetes/kubernetes#38806), so it is not recommended to use sandbox instances `s1-2` and `s1-4`.
 
 ## How do I contribute to this Module?
 
